@@ -1,0 +1,54 @@
+.secondary{
+text-align: center;
+background-color:lavender;
+}
+.higher{
+    text-align: center;
+    background-color:blanchedalmond;
+    }
+.contact {
+    color: darkgrey;
+    text-align: left;
+    background: black;
+}
+.about{
+    align-items: center;
+}
+h1{
+    color-interpolation-filters: inherit;
+}
+#card{
+    padding: auto;
+}
+.card-img{
+    width: 1300px;
+    height: 500px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.studied{
+    text-align: center;
+}
+.card text-white bg-primary mb-3{
+    max-height: 50rem;
+}
+.card-tittle{
+    text-align: center;
+}
+.about{
+    text-align: center;
+    background-color: :blanchedalmond;
+}
+#connectWithMe{
+    background-color: lightslategrey;
+    padding: auto;
+}
+.mb-3{
+    margin-left: 0rem;
+    border-radius: 4px;
+}
